@@ -1,0 +1,13 @@
+step 1
+SQL Server2012 how to open the remote connection
+http://www.2cto.com/database/201305/207514.html
+http://www.ai0916.net/thread-202914-1-1.html
+
+step 2 
+SQLSERVER 在局域网使用Windows身份验证连接局域网内的另一台SQL服务器（不是域环境）
+http://www.cnblogs.com/lyhabc/archive/2013/03/15/2961577.html
+
+ 
+step 3  
+SQL Server 客户端连接的问题
+http://jimshu.blog.51cto.com/3171847/1395199/
